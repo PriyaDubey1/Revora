@@ -1,6 +1,6 @@
-# RazorRecover — Day 0 Setup
+# Revora — Day 0 Setup
 
-Track 03: AI Revenue Recovery — Razorpay Buildathon
+Track 03: AI Revenue Recovery — Razorpay Buildathon Track 3
 
 ## What this is (right now)
 
